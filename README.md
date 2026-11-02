@@ -2,7 +2,7 @@
 
 # Asit Kumar Nayak
 
-### Data Science · Machine Learning · Software Development
+### 📊 Data Science · 🤖 Machine Learning · 💻 Software Development
 
 <a href="https://www.linkedin.com/in/asit-kumar-nayak-80abb1264/">LinkedIn</a> ·
 <a href="mailto:23f1000318@ds.study.iitm.ac.in">Email</a>
@@ -12,7 +12,7 @@
 I am a Data Science and Applications student at **IIT Madras**, currently working as a **Junior Developer Intern at NPTEL** and a **Teaching Assistant for Business Analytics**. I build practical systems around data, machine learning, generative AI, analytics, cheminformatics, and full-stack development.
 
 <details>
-<summary><b>What I work on</b></summary>
+<summary><b>✨ What I work on</b></summary>
 
 - Educational-data pipelines, automation, and business intelligence
 - Machine learning, deep learning, generative AI, and LLM applications
@@ -22,9 +22,9 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 
 </details>
 
-## Languages & Tools
+## 🧰 Languages & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" /></a>
@@ -35,7 +35,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://www.postgresql.org/docs/current/sql.html"><img height="28" src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white" alt="SQL" title="SQL" /></a>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" title="Flask" /></a>
@@ -48,7 +48,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" /></a>
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" /></a>
@@ -56,7 +56,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" title="Redis" /></a>
 </p>
 
-### Data Science & ML
+### 🧠 Data Science & ML
 
 <p>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" title="NumPy" /></a>
@@ -68,7 +68,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 
 [XGBoost](https://xgboost.readthedocs.io/) · [LightGBM](https://lightgbm.readthedocs.io/) · [RDKit](https://www.rdkit.org/) · [Statistics](https://docs.scipy.org/doc/scipy/reference/stats.html) · [Generative AI](https://ai.google.dev/) · [LLMs](https://huggingface.co/) · [Looker Studio](https://lookerstudio.google.com/)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" title="Docker" /></a>
@@ -80,7 +80,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 
 [Celery](https://docs.celeryq.dev/) · [APScheduler](https://apscheduler.readthedocs.io/) · [REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
-### Tools
+### 🛠️ Tools
 
 <p>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" title="Git" /></a>
@@ -93,7 +93,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 [Google Colab](https://colab.research.google.com/) · [Kaggle](https://www.kaggle.com/) · [SQLAlchemy](https://www.sqlalchemy.org/) · [Alembic](https://alembic.sqlalchemy.org/)
 
 <details>
-<summary><b>Education & experience</b></summary>
+<summary><b>🎓 Education & experience</b></summary>
 
 - **IIT Madras** — BS in Data Science and Applications, 2023–Present
 - **NPTEL** — Junior Developer Intern, Jan 2026–Present
@@ -104,6 +104,6 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 
 <div align="center">
 
-<i>Always learning, building, and helping others learn.</i>
+<i>🚀 Always learning, building, and helping others learn.</i>
 
 </div>
