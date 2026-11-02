@@ -66,7 +66,15 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://matplotlib.org/"><img height="28" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" title="Matplotlib" /></a>
 </p>
 
-[XGBoost](https://xgboost.readthedocs.io/) · [LightGBM](https://lightgbm.readthedocs.io/) · [RDKit](https://www.rdkit.org/) · [Statistics](https://docs.scipy.org/doc/scipy/reference/stats.html) · [Generative AI](https://ai.google.dev/) · [LLMs](https://huggingface.co/) · [Looker Studio](https://lookerstudio.google.com/)
+<p>
+<a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-337AB7?logo=xgboost&logoColor=white" alt="XGBoost" title="XGBoost" /></a>
+<a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-9ACD32?logo=lightgbm&logoColor=black" alt="LightGBM" title="LightGBM" /></a>
+<a href="https://www.rdkit.org/"><img src="https://img.shields.io/badge/RDKit-3C8DAD?logo=python&logoColor=white" alt="RDKit" title="RDKit" /></a>
+<a href="https://docs.scipy.org/doc/scipy/reference/stats.html"><img src="https://img.shields.io/badge/Statistics-8E44AD?logo=python&logoColor=white" alt="Statistics" title="Statistics" /></a>
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Generative%20AI-4285F4?logo=google&logoColor=white" alt="Generative AI" title="Generative AI" /></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/LLMs-FFD21E?logo=huggingface&logoColor=black" alt="LLMs" title="LLMs" /></a>
+<a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white" alt="Looker Studio" title="Looker Studio" /></a>
+</p>
 
 ### ☁️ Cloud & DevOps
 
@@ -78,7 +86,11 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://huggingface.co/spaces"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face Spaces" title="Hugging Face Spaces" /></a>
 </p>
 
-[Celery](https://docs.celeryq.dev/) · [APScheduler](https://apscheduler.readthedocs.io/) · [REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+<p>
+<a href="https://docs.celeryq.dev/"><img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" alt="Celery" title="Celery" /></a>
+<a href="https://apscheduler.readthedocs.io/"><img src="https://img.shields.io/badge/APScheduler-5C6BC0?logo=clockify&logoColor=white" alt="APScheduler" title="APScheduler" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img src="https://img.shields.io/badge/REST%20APIs-009688?logo=fastapi&logoColor=white" alt="REST APIs" title="REST APIs" /></a>
+</p>
 
 ### 🛠️ Tools
 
@@ -90,7 +102,12 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" title="LaTeX" /></a>
 </p>
 
-[Google Colab](https://colab.research.google.com/) · [Kaggle](https://www.kaggle.com/) · [SQLAlchemy](https://www.sqlalchemy.org/) · [Alembic](https://alembic.sqlalchemy.org/)
+<p>
+<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab" title="Google Colab" /></a>
+<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" title="Kaggle" /></a>
+<a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" title="SQLAlchemy" /></a>
+<a href="https://alembic.sqlalchemy.org/"><img src="https://img.shields.io/badge/Alembic-4B5563?logo=python&logoColor=white" alt="Alembic" title="Alembic" /></a>
+</p>
 
 <details>
 <summary><b>🎓 Education & experience</b></summary>
