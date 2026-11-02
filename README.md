@@ -63,7 +63,11 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 ### Data Science & ML
 
 <p>
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" /></a>
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+<a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" /></a>
 </p>
 
 [PyTorch](https://pytorch.org/)
@@ -76,6 +80,8 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+<a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" /></a>
+<a href="https://huggingface.co/spaces"><img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face Spaces" /></a>
 </p>
 
 [Docker](https://www.docker.com/) · [Vercel](https://vercel.com/) · [Linux](https://www.linux.org/) · [Hugging Face Spaces](https://huggingface.co/spaces) · [Streamlit](https://streamlit.io/) · [Redis](https://redis.io/) · [Celery](https://docs.celeryq.dev/) · [APScheduler](https://apscheduler.readthedocs.io/) · [REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
