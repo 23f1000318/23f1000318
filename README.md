@@ -1,59 +1,95 @@
-# Hi, I'm Asit Kumar Nayak 👋
+<div align="center">
 
-### Data Science Student · Machine Learning Developer · Teaching Assistant
+# Asit Kumar Nayak
 
-I am pursuing a **BS in Data Science and Applications at IIT Madras** with a current CGPA of **8.5**. I enjoy building practical data products, machine-learning systems, analytics dashboards, and full-stack applications that connect technical ideas with real-world use cases.
+### Data Science · Machine Learning · Software Development
 
-Currently, I work as a **Junior Developer Intern at NPTEL** and as a **Teaching Assistant for Business Analytics at IIT Madras**.
+<a href="https://www.linkedin.com/in/asit-kumar-nayak-80abb1264/">LinkedIn</a> ·
+<a href="mailto:23f1000318@ds.study.iitm.ac.in">Email</a> ·
+<a href="https://github.com/23f1000318?tab=repositories">Repositories</a>
 
-## What I Work On
+</div>
 
-- Data analysis, business intelligence, and dashboard development
-- Machine learning and deep learning applications
-- Generative AI and LLM-powered tools
-- Data pipelines and educational-data systems
-- Flask-based backend and full-stack application development
-- Teaching, mentoring, and technical content development
+I am a Data Science and Applications student at **IIT Madras**, currently working as a **Junior Developer Intern at NPTEL** and a **Teaching Assistant for Business Analytics**. I build practical systems around data, machine learning, generative AI, analytics, and full-stack development.
 
-## Featured Projects
+<details>
+<summary><b>What I work on</b></summary>
 
-| Project | Description |
-| --- | --- |
-| [Music Genre Classifier](https://github.com/23f1000318/Music-Genre-Classifier-Deep-Learning-Generative-AI-Project) | Deep-learning system for classifying noisy music mashups using AST and ResNet18 ensemble models. |
-| [Data Analyst Agent](https://github.com/23f1000318/Data_Analyst_Agent) | AI-assisted data-analysis API that generates and executes analysis code in Docker-isolated environments. |
-| [Discourse Teaching Assistant](https://github.com/23f1000318/Discourse_Teaching_Assistant) | Retrieval-augmented teaching assistant for answering course questions with relevant references. |
-| [PPT Generator](https://github.com/23f1000318/PPT_Generator) | React and TypeScript application for generating styled PowerPoint presentations from text and templates. |
-| [AI Chatbot](https://github.com/23f1000318/AI_Chatbot) | Browser-based chatbot with multi-provider LLM support, web search, markdown rendering, and sandboxed JavaScript execution. |
-| [Hospital Management Application](https://github.com/23f1000318/Hospital_Management_Application) | Full-stack Flask and Vue application for patients, doctors, appointments, treatments, and administration. |
-| [Placement Portal Application](https://github.com/23f1000318/Placement_Portal_Application) | Flask-based campus placement portal for students, companies, applications, and placement drives. |
-| [System Threat Forecaster](https://github.com/23f1000318/System_Threat_Forecaster) | Machine-learning project for predicting the probability of systems being infected by malware families. |
+- Educational-data pipelines, automation, and business intelligence
+- Machine learning, deep learning, generative AI, and LLM applications
+- Flask, FastAPI, Vue, React, and JavaScript applications
+- Data analysis, dashboards, statistics, and predictive modelling
+- Teaching, mentoring, algorithms, mathematics, and technical content
 
-## Technical Skills
+</details>
 
-**Languages:** Python, Java, SQL, JavaScript, C  
-**Frameworks:** Flask, Jinja2, SQLAlchemy, Vue.js, React, FastAPI  
-**Machine Learning:** Scikit-learn, LightGBM, PyTorch, deep learning, generative AI  
-**Data and Analytics:** NumPy, Pandas, PostgreSQL, SQLite, Looker Studio, statistical analysis  
-**Tools:** Git, Linux, Jupyter, Google Colab, VS Code, LaTeX, Docker
+## Languages & Tools
 
-## Experience
+### Programming Languages
 
-- **Junior Developer Intern — NPTEL**: Educational-data pipeline automation, analytics dashboards, operational process improvement, and NPTEL data management.
-- **Teaching Assistant — Business Analytics, IIT Madras**: Supported teaching and assessment in dashboarding, regression diagnostics, logistic regression, ANOVA, and financial forecasting.
-- **Teaching Assistant — Embedded C Lab, IIT Madras**: Guided STM32 and Arduino-based work involving I/O, serial communication, interrupts, and sensors.
-- **Teaching Assistant, Mentor, and Content Developer — IIT Madras**: Supported Mathematics for Data Science, student mentoring, algorithms, discrete mathematics, and Möbius learning content.
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,sql" alt="Python, Java, JavaScript, TypeScript, C, SQL" />
+</p>
 
-## Education
+### Web Development
 
-**Indian Institute of Technology Madras**  
-BS in Data Science and Applications · 2023–Present
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,vue,vite,html,css,tailwind" alt="Flask, FastAPI, React, Vue, Vite, HTML, CSS, Tailwind" />
+</p>
 
-Relevant coursework includes machine learning, deep learning and generative AI, business analytics, statistics, mathematics for data science, data structures and algorithms, databases, software engineering, application development, and tools in data science.
+### Databases
 
-## Connect With Me
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" alt="PostgreSQL, SQLite, MySQL, Redis" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/asit-kumar-nayak-80abb1264/)
-- [Email](mailto:23f1000318@ds.study.iitm.ac.in)
-- [GitHub Projects](https://github.com/23f1000318?tab=repositories)
+### Data Science & ML
 
-I am interested in data science, machine learning, analytics engineering, educational technology, and software projects that create measurable impact.
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" />
+</p>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `LightGBM` · `Matplotlib` · `Statistics` · `Deep Learning` · `Generative AI` · `LLMs` · `Looker Studio`
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,vercel,linux,githubactions" alt="Docker, Vercel, Linux, GitHub Actions" />
+</p>
+
+`Hugging Face Spaces` · `Redis` · `Celery` · `REST APIs` · `CI/CD`
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,latex,postman" alt="Git, GitHub, VS Code, Jupyter, LaTeX, Postman" />
+</p>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=23f1000318&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f1000318&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=23f1000318&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+</div>
+
+<details>
+<summary><b>Education & experience</b></summary>
+
+- **IIT Madras** — BS in Data Science and Applications, 2023–Present
+- **NPTEL** — Junior Developer Intern, Jan 2026–Present
+- **IIT Madras** — Teaching Assistant, Business Analytics, May 2025–Present
+- **IIT Madras** — Teaching Assistant, Embedded C Lab, May–Aug 2025
+
+</details>
+
+<div align="center">
+
+<i>Always learning, building, and helping others learn.</i>
+
+</div>
