@@ -10,7 +10,7 @@
 
 </div>
 
-I am a Data Science and Applications student at **IIT Madras**, currently working as a **Junior Developer Intern at NPTEL** and a **Teaching Assistant for Business Analytics**. I build practical systems around data, machine learning, generative AI, analytics, and full-stack development.
+I am a Data Science and Applications student at **IIT Madras**, currently working as a **Junior Developer Intern at NPTEL** and a **Teaching Assistant for Business Analytics**. I build practical systems around data, machine learning, generative AI, analytics, cheminformatics, and full-stack development.
 
 <details>
 <summary><b>What I work on</b></summary>
@@ -18,7 +18,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 - Educational-data pipelines, automation, and business intelligence
 - Machine learning, deep learning, generative AI, and LLM applications
 - Flask, FastAPI, Vue, React, and JavaScript applications
-- Data analysis, dashboards, statistics, and predictive modelling
+- Data analysis, dashboards, statistics, predictive modelling, and cheminformatics
 - Teaching, mentoring, algorithms, mathematics, and technical content
 
 </details>
@@ -49,21 +49,23 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" />
 </p>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `LightGBM` · `Matplotlib` · `Statistics` · `Deep Learning` · `Generative AI` · `LLMs` · `Looker Studio`
+`NumPy` · `Pandas` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `LightGBM` · `RDKit` · `Matplotlib` · `Statistics` · `Deep Learning` · `Generative AI` · `LLMs` · `Looker Studio`
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,vercel,linux,githubactions" alt="Docker, Vercel, Linux, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,linux" alt="Docker, Vercel, Linux" />
 </p>
 
-`Hugging Face Spaces` · `Redis` · `Celery` · `REST APIs` · `CI/CD`
+`Hugging Face Spaces` · `Streamlit` · `Redis` · `Celery` · `APScheduler` · `REST APIs` · `CI/CD`
 
 ### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,latex,postman" alt="Git, GitHub, VS Code, Jupyter, LaTeX, Postman" />
 </p>
+
+`Google Colab` · `Kaggle` · `Looker Studio` · `SQLAlchemy` · `Alembic`
 
 ## GitHub Stats
 
