@@ -5,7 +5,7 @@
 ### 📊 Data Science · 🤖 Machine Learning · 💻 Software Development
 
 <a href="https://www.linkedin.com/in/asit-kumar-nayak-80abb1264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-<a href="mailto:23f1000318@ds.study.iitm.ac.in"><img src="https://img.shields.io/badge/Email-23f1000318%40ds.study.iitm.ac.in-D14836?logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
+<a href="mailto:asitkumarnayak.work@gmail.com"><img src="https://img.shields.io/badge/Email-asitkumarnayak.work%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
 
 </div>
 
@@ -112,6 +112,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 - **NPTEL** — Junior Developer Intern, Jan 2026–Present
 - **IIT Madras** — Teaching Assistant, Business Analytics, May 2025–Present
 - **IIT Madras** — Teaching Assistant, Embedded C Lab, May–Aug 2025
+- **IIT Madras** — Teaching Assistant, Mentor, and Content Developer, Mathematics for Data Science I, Oct 2023–Sep 2024
 
 <div align="center">
 
