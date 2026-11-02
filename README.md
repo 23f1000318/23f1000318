@@ -71,11 +71,6 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=23f1000318&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f1000318&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=23f1000318&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
