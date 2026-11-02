@@ -40,7 +40,7 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" alt="PostgreSQL, SQLite, MySQL, Redis" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" alt="PostgreSQL, SQLite, Redis" />
 </p>
 
 ### Data Science & ML
