@@ -5,8 +5,7 @@
 ### Data Science · Machine Learning · Software Development
 
 <a href="https://www.linkedin.com/in/asit-kumar-nayak-80abb1264/">LinkedIn</a> ·
-<a href="mailto:23f1000318@ds.study.iitm.ac.in">Email</a> ·
-<a href="https://github.com/23f1000318?tab=repositories">Repositories</a>
+<a href="mailto:23f1000318@ds.study.iitm.ac.in">Email</a>
 
 </div>
 
@@ -28,75 +27,70 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 ### Programming Languages
 
 <p>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-<a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+<a href="https://www.python.org/"><img height="36" src="https://cdn.simpleicons.org/python" alt="Python" title="Python" /></a>
+<a href="https://www.oracle.com/java/"><img height="36" src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="36" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img height="36" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" /></a>
+<a href="https://en.cppreference.com/w/c"><img height="36" src="https://cdn.simpleicons.org/c" alt="C" title="C" /></a>
+<a href="https://www.postgresql.org/docs/current/sql.html"><img height="28" src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white" alt="SQL" title="SQL" /></a>
 </p>
-
-[Python](https://www.python.org/) · [Java](https://www.oracle.com/java/) · [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [TypeScript](https://www.typescriptlang.org/) · [C](https://en.cppreference.com/w/c) · [SQL](https://www.postgresql.org/docs/current/sql.html)
 
 ### Web Development
 
 <p>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+<a href="https://flask.palletsprojects.com/"><img height="36" src="https://cdn.simpleicons.org/flask" alt="Flask" title="Flask" /></a>
+<a href="https://fastapi.tiangolo.com/"><img height="36" src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" /></a>
+<a href="https://react.dev/"><img height="36" src="https://cdn.simpleicons.org/react" alt="React" title="React" /></a>
+<a href="https://vuejs.org/"><img height="36" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue" title="Vue" /></a>
+<a href="https://vite.dev/"><img height="36" src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="36" src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="36" src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" /></a>
+<a href="https://tailwindcss.com/"><img height="36" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" /></a>
 </p>
-
-[Flask](https://flask.palletsprojects.com/) · [FastAPI](https://fastapi.tiangolo.com/) · [React](https://react.dev/) · [Vue](https://vuejs.org/) · [Vite](https://vite.dev/) · [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) · [Tailwind CSS](https://tailwindcss.com/)
 
 ### Databases
 
 <p>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
-<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+<a href="https://www.postgresql.org/"><img height="36" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://www.sqlite.org/"><img height="36" src="https://cdn.simpleicons.org/sqlite" alt="SQLite" title="SQLite" /></a>
+<a href="https://redis.io/"><img height="36" src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" /></a>
 </p>
-
-[PostgreSQL](https://www.postgresql.org/) · [SQLite](https://www.sqlite.org/) · [Redis](https://redis.io/)
 
 ### Data Science & ML
 
 <p>
-<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
-<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" /></a>
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
-<a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" /></a>
+<a href="https://numpy.org/"><img height="36" src="https://cdn.simpleicons.org/numpy" alt="NumPy" title="NumPy" /></a>
+<a href="https://pandas.pydata.org/"><img height="36" src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" /></a>
+<a href="https://scikit-learn.org/"><img height="36" src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" title="Scikit-learn" /></a>
+<a href="https://pytorch.org/"><img height="36" src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" /></a>
+<a href="https://matplotlib.org/"><img height="28" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" title="Matplotlib" /></a>
 </p>
 
-[PyTorch](https://pytorch.org/)
-
-[NumPy](https://numpy.org/) · [Pandas](https://pandas.pydata.org/) · [Scikit-learn](https://scikit-learn.org/) · [XGBoost](https://xgboost.readthedocs.io/) · [LightGBM](https://lightgbm.readthedocs.io/) · [RDKit](https://www.rdkit.org/) · [Matplotlib](https://matplotlib.org/) · [SciPy Statistics](https://docs.scipy.org/doc/scipy/reference/stats.html) · [Deep Learning](https://www.deeplearning.ai/) · [Generative AI](https://ai.google.dev/) · [LLMs](https://huggingface.co/) · [Looker Studio](https://lookerstudio.google.com/)
+[XGBoost](https://xgboost.readthedocs.io/) · [LightGBM](https://lightgbm.readthedocs.io/) · [RDKit](https://www.rdkit.org/) · [Statistics](https://docs.scipy.org/doc/scipy/reference/stats.html) · [Generative AI](https://ai.google.dev/) · [LLMs](https://huggingface.co/) · [Looker Studio](https://lookerstudio.google.com/)
 
 ### Cloud & DevOps
 
 <p>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-<a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" /></a>
-<a href="https://huggingface.co/spaces"><img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face Spaces" /></a>
+<a href="https://www.docker.com/"><img height="36" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" /></a>
+<a href="https://vercel.com/"><img height="36" src="https://cdn.simpleicons.org/vercel" alt="Vercel" title="Vercel" /></a>
+<a href="https://www.linux.org/"><img height="36" src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" /></a>
+<a href="https://streamlit.io/"><img height="36" src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" /></a>
+<a href="https://huggingface.co/spaces"><img height="36" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face Spaces" title="Hugging Face Spaces" /></a>
 </p>
 
-[Docker](https://www.docker.com/) · [Vercel](https://vercel.com/) · [Linux](https://www.linux.org/) · [Hugging Face Spaces](https://huggingface.co/spaces) · [Streamlit](https://streamlit.io/) · [Redis](https://redis.io/) · [Celery](https://docs.celeryq.dev/) · [APScheduler](https://apscheduler.readthedocs.io/) · [REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+[Celery](https://docs.celeryq.dev/) · [APScheduler](https://apscheduler.readthedocs.io/) · [REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
 ### Tools
 
 <p>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
-<a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /></a>
+<a href="https://git-scm.com/"><img height="36" src="https://cdn.simpleicons.org/git" alt="Git" title="Git" /></a>
+<a href="https://github.com/"><img height="36" src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" /></a>
+<a href="https://code.visualstudio.com/"><img height="28" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code" /></a>
+<a href="https://jupyter.org/"><img height="36" src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" /></a>
+<a href="https://www.latex-project.org/"><img height="36" src="https://cdn.simpleicons.org/latex" alt="LaTeX" title="LaTeX" /></a>
 </p>
 
-[Git](https://git-scm.com/) · [GitHub](https://github.com/) · [VS Code](https://code.visualstudio.com/) · [Jupyter](https://jupyter.org/) · [LaTeX](https://www.latex-project.org/) · [Google Colab](https://colab.research.google.com/) · [Kaggle](https://www.kaggle.com/) · [Looker Studio](https://lookerstudio.google.com/) · [SQLAlchemy](https://www.sqlalchemy.org/) · [Alembic](https://alembic.sqlalchemy.org/)
+[Google Colab](https://colab.research.google.com/) · [Kaggle](https://www.kaggle.com/) · [SQLAlchemy](https://www.sqlalchemy.org/) · [Alembic](https://alembic.sqlalchemy.org/)
 
 <details>
 <summary><b>Education & experience</b></summary>
