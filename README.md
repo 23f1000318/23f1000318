@@ -27,53 +27,29 @@ I am a Data Science and Applications student at **IIT Madras**, currently workin
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,sql" alt="Python, Java, JavaScript, TypeScript, C, SQL" />
-</p>
+[Python](https://www.python.org/) · [Java](https://www.oracle.com/java/) · [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [TypeScript](https://www.typescriptlang.org/) · [C](https://en.cppreference.com/w/c) · [SQL](https://www.postgresql.org/docs/current/sql.html)
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,vue,vite,html,css,tailwind" alt="Flask, FastAPI, React, Vue, Vite, HTML, CSS, Tailwind" />
-</p>
+[Flask](https://flask.palletsprojects.com/) · [FastAPI](https://fastapi.tiangolo.com/) · [React](https://react.dev/) · [Vue](https://vuejs.org/) · [Vite](https://vite.dev/) · [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) · [Tailwind CSS](https://tailwindcss.com/)
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" alt="PostgreSQL, SQLite, Redis" />
-</p>
+[PostgreSQL](https://www.postgresql.org/) · [SQLite](https://www.sqlite.org/) · [Redis](https://redis.io/)
 
 ### Data Science & ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" />
-</p>
+[PyTorch](https://pytorch.org/) · [TensorFlow](https://www.tensorflow.org/)
 
-`NumPy` · `Pandas` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `LightGBM` · `RDKit` · `Matplotlib` · `Statistics` · `Deep Learning` · `Generative AI` · `LLMs` · `Looker Studio`
+[NumPy](https://numpy.org/) · [Pandas](https://pandas.pydata.org/) · [Scikit-learn](https://scikit-learn.org/) · [XGBoost](https://xgboost.readthedocs.io/) · [LightGBM](https://lightgbm.readthedocs.io/) · [RDKit](https://www.rdkit.org/) · [Matplotlib](https://matplotlib.org/) · [SciPy Statistics](https://docs.scipy.org/doc/scipy/reference/stats.html) · [Deep Learning](https://www.deeplearning.ai/) · [Generative AI](https://ai.google.dev/) · [LLMs](https://huggingface.co/) · [Looker Studio](https://lookerstudio.google.com/)
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,vercel,linux" alt="Docker, Vercel, Linux" />
-</p>
-
-`Hugging Face Spaces` · `Streamlit` · `Redis` · `Celery` · `APScheduler` · `REST APIs` · `CI/CD`
+[Docker](https://www.docker.com/) · [Vercel](https://vercel.com/) · [Linux](https://www.linux.org/) · [Hugging Face Spaces](https://huggingface.co/spaces) · [Streamlit](https://streamlit.io/) · [Redis](https://redis.io/) · [Celery](https://docs.celeryq.dev/) · [APScheduler](https://apscheduler.readthedocs.io/) · [REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST) · [CI/CD](https://docs.github.com/en/actions)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,latex,postman" alt="Git, GitHub, VS Code, Jupyter, LaTeX, Postman" />
-</p>
-
-`Google Colab` · `Kaggle` · `Looker Studio` · `SQLAlchemy` · `Alembic`
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=23f1000318&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-
-</div>
+[Git](https://git-scm.com/) · [GitHub](https://github.com/) · [VS Code](https://code.visualstudio.com/) · [Jupyter](https://jupyter.org/) · [LaTeX](https://www.latex-project.org/) · [Postman](https://www.postman.com/) · [Google Colab](https://colab.research.google.com/) · [Kaggle](https://www.kaggle.com/) · [Looker Studio](https://lookerstudio.google.com/) · [SQLAlchemy](https://www.sqlalchemy.org/) · [Alembic](https://alembic.sqlalchemy.org/)
 
 <details>
 <summary><b>Education & experience</b></summary>
